@@ -1,11 +1,15 @@
 Hotkeys on Microsoft Word
 
+***************************
 
-Open a document:
-Ctrl+O
+Switch Programs:
+Alt+Tab
 
 Create a new document:
 Ctrl+N
+
+Open a document:
+Ctrl+O
 
 Save the document:
 Ctrl+S
@@ -13,25 +17,25 @@ Ctrl+S
 Close the document:
 Ctrl+W
 
-Cut the selected content to the Clipboard:
-Ctrl+X
-
-Copy the selected content to the Clipboard:
+Copy text:
 Ctrl+C
 
-Paste the contents of the Clipboard:
+Paste text:
 Ctrl+V
 
-Select all document content:
+Cut text:
+Ctrl+X
+
+Select all text:
 Ctrl+A
 
-Apply bold formatting to text:
+Bold formatting:
 Ctrl+B
 
-Apply italic formatting to text:
+Italics formatting:
 Ctrl+I
 
-Apply underline formatting to text:
+Underline text:
 Ctrl+U
 
 Decrease the font size by 1 point:
@@ -40,7 +44,7 @@ Ctrl+Left bracket ([)
 Increase the font size by 1 point:
 Ctrl+Right bracket (])
 
-Center the text:
+Center text:
 Ctrl+E
 
 Align the text to the left:
@@ -49,15 +53,11 @@ Ctrl+L
 Align the text to the right:
 Ctrl+R
 
-Cancel a command:
-Esc
-
-Undo the previous action.:
+Undo the previous action:
 Ctrl+Z
 
 Redo the previous action, if possible:
 Ctrl+Y
-
 
 Split the document window and remove split:
 Ctrl+Alt+S
