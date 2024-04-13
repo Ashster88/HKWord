@@ -54,12 +54,14 @@ Ctrl+I
 
 Underline text:
 Ctrl+U
+Page Break:
+Ctrl+Enter
 
 Decrease the font size by 1 point:
 Ctrl+Left bracket ([)
 
 Increase the font size by 1 point:
-Ctrl+Right bracket (])  
+Ctrl+Right bracket (])
 
 Center text:
 Ctrl+E
@@ -83,7 +85,7 @@ Split the document window and remove split:
 Ctrl+Alt+S
 
 Find text:
-Ctrl+F 
+Ctrl+F
 
 Spell Checker:
 F7 ** On Mac - Command+Option+L
